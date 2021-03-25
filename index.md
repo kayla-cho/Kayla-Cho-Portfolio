@@ -2,7 +2,7 @@
 
 ---
 ### Data Exploration & Analysis
-[Airline Sentiment Analysis](/pdf/Airline Sentiment Analysis.pdf)
+[Airline Sentiment Analysis](https://github.com/kayla-cho/Airline-Sentiment/raw/main/Airline%20Sentiment%20Analysis.pdf)
 
 ### Supervised Learning (Regression Models/ Decision Trees)
 
