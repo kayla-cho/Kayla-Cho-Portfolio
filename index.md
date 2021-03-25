@@ -1,4 +1,4 @@
-## Kayla Cho Portfolio
+## My Work
 
 ---
 ### Data Exploration & Analysis
@@ -19,19 +19,17 @@ View Code [Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bc
 
 <img src="https://github.com/kayla-cho/hotel-cancellations/blob/ae25263a02e26a968ae5d1fc5fec703d8d1c1098/ElasticNet.png" width="400" height="300"/>
 
-<p class="text-italic">Italic</p>
-
 - [Burgers or Pizza](https://github.com/kayla-cho/burgers-or-pizza/blob/8a59e914ba12b4e209a5d2396b17bbb9617c8d59/Burgers%20or%20Pizza%20Project.ipynb)
+<img src="https://github.com/kayla-cho/burgers-or-pizza/blob/7483d128a7bfa6ef76197cc3fe168cc104a85b15/Unknown-1.png" width="300" height="200"/>
 ---
 
 ### Unsupervised Learning (Clustering Models) 
 - [Krispy Kreme Project](https://github.com/kayla-cho/krispy-kreme/blob/89cafe14d45d22f4b63489d803023ade2caf57f7/Krispy%20Kreme%20Project.ipynb)
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<img src="https://github.com/kayla-cho/krispy-kreme/blob/ad8a94ca0bef7da7454692dc6822f1b5a36cc82b/Unknown.png" width="300" height="200"/>
 
+### Other Projects
+- [Spotify Analysis](https://github.com/kayla-cho/spotify/blob/a8e4bddf1f6a82b527eb4cdcacd4d14832a89bb6/Final_Project.ipynb)
+<img src="https://github.com/kayla-cho/spotify/blob/44f2c06347176483a0d6806173af91af00c74634/Unknown-3.png" width="300" height="200"/>
 ---
 
 
