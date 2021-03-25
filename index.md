@@ -15,7 +15,7 @@
 ---
 - [Hotel Cancellations](https://github.com/kayla-cho/hotel-cancellations/blob/49feb3cca2e5d88761282868d7006e0e82eb40c4/Hotels%20%20Presentation.pdf)
 
-View Code [Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bca746a22f4e206df6fc8d1fa6edee2c0/Final.nb.html)
+  View Code [Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bca746a22f4e206df6fc8d1fa6edee2c0/Final.nb.html)
 
 <img src="https://github.com/kayla-cho/hotel-cancellations/blob/ae25263a02e26a968ae5d1fc5fec703d8d1c1098/ElasticNet.png" width="400" height="300"/>
 
