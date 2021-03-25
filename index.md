@@ -1,10 +1,13 @@
 ## Kayla Cho Portfolio
 
 ---
+### Data Exploration & Analysis
+[Airline Sentiment Analysis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Regression Models
+### Supervised Learning (Regression Models/ Decision Trees)
 
-[Project 1 Title](/sample_page)
+[Krispy Kreme Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +20,7 @@
 
 ---
 
-### Clustering Models
+### Unsupervised Learning (Clustering Models) 
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
