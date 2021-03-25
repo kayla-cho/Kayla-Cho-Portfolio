@@ -6,7 +6,7 @@
   
     Created an executive summary of a Airline Sentiment data set found on Kaggle that contains data from February 2015 from six different airlines.
 
-<img src="https://github.com/kayla-cho/Airline-Sentiment/blob/57dffcccd517d04775e9ec9b639914a4ca7bfb0c/airline.negative.reasons.png" width="300" height="300"/>
+<img src="images/airline.negative.reasons.png" width="300" height="300"/>
 
 ---
 
@@ -16,7 +16,7 @@
   
   Developed a linear regression model to predict the BMI of a patient based on a set of predictor variables. Used variables like BMI to create a logistic regression model to determine if a patient has diabetes. 
   
-<img src="airline.negative.reasons.png" width="300" height="200"/>
+<img src="images/Unknown copy.png" width="300" height="200"/>
 
 
 ---
@@ -26,7 +26,7 @@
   View Code [Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bca746a22f4e206df6fc8d1fa6edee2c0/Final.nb.html)
   
   Collaborated with a team to explore a hotel data set found on Kaggle and create various models to predict hotel cancellations.  
-<img src="https://github.com/kayla-cho/hotel-cancellations/blob/ae25263a02e26a968ae5d1fc5fec703d8d1c1098/ElasticNet.png" width="400" height="300"/>
+<img src="images/ElasticNet.png" width="400" height="300"/>
 
 ---
 
@@ -34,7 +34,7 @@
   
   Created a logistic regression model and decision tree to predict if the item is pizza or burger based on the items nutrition facts. 
 
-<img src="https://github.com/kayla-cho/kayla.cho.github.io/blob/3b03fd9cbe435d957cf9b28bb68bbb276e5aaabb/images/Unknown-1.png" width="300" height="200"/>
+<img src="images/Unknown-1.png" width="300" height="200"/>
 
 ---
 
@@ -43,7 +43,7 @@
   
   Created three different clustering models to group Krispy Kreme products by various variables.
   
-<img src="https://github.com/kayla-cho/krispy-kreme/blob/ad8a94ca0bef7da7454692dc6822f1b5a36cc82b/Unknown.png" width="300" height="200"/>
+<img src="images/Unknown.png" width="300" height="200"/>
 
 ---
 
@@ -53,5 +53,5 @@
   
   Worked in a team of three to explore and analyze a Spotify data set using various regression and clustering models. 
   
-<img src="https://github.com/kayla-cho/spotify/blob/44f2c06347176483a0d6806173af91af00c74634/Unknown-3.png" width="300" height="200"/>
+<img src="images/Unknown-3.png" width="300" height="200"/>
 
