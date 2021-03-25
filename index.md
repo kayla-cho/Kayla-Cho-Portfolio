@@ -26,7 +26,7 @@
 ---
 
 - [Burgers or Pizza](https://github.com/kayla-cho/burgers-or-pizza/blob/8a59e914ba12b4e209a5d2396b17bbb9617c8d59/Burgers%20or%20Pizza%20Project.ipynb)
-<img src="https://github.com/kayla-cho/burgers-or-pizza/blob/7483d128a7bfa6ef76197cc3fe168cc104a85b15/Unknown-1.png" width="300" height="200"/>
+<img src="https://github.com/kayla-cho/kayla.cho.github.io/blob/3b03fd9cbe435d957cf9b28bb68bbb276e5aaabb/images/Unknown-1.png" width="300" height="200"/>
 
 ---
 
