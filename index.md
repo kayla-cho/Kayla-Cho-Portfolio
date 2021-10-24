@@ -2,6 +2,12 @@
 
 ---
 ### Data Exploration & Analysis
+-  [Rosetta Stone User Insights](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Detailed%20Report.pdf)
+  
+   Developed an analytics plan based on customer and product usage to optimize and grow Rosetta Stone’s subscriber base.
+
+<img src="images/airline.negative.reasons.png" width="300" height="300"/>
+
 - [Airline Sentiment Analysis](https://github.com/kayla-cho/Airline-Sentiment/raw/main/Airline%20Sentiment%20Analysis.pdf)
   
     Created an executive summary of a Airline Sentiment data set found on Kaggle that contains data from February 2015 from six different airlines.
