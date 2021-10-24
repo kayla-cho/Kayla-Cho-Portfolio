@@ -4,7 +4,7 @@
 ### Data Exploration & Analysis
 -  [Rosetta Stone User Insights](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Rosetta%20Stone%20User%20Insights.pdf)
       
-      [Detailed Report](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Detailed%20Report.pdf)
+    [View Detailed Report](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Detailed%20Report.pdf)
   
    Developed an analytics plan based on customer and product usage to optimize and grow Rosetta Stone’s subscriber base.
 
@@ -31,7 +31,7 @@
 
 - [Hotel Cancellations](https://github.com/kayla-cho/hotel-cancellations/blob/49feb3cca2e5d88761282868d7006e0e82eb40c4/Hotels%20%20Presentation.pdf)
 
-  View Code [Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bca746a22f4e206df6fc8d1fa6edee2c0/Final.nb.html)
+   [View Code Here](https://github.com/kayla-cho/hotel-cancellations/blob/3ec6950bca746a22f4e206df6fc8d1fa6edee2c0/Final.nb.html)
   
   Collaborated with a team to explore a hotel data set found on Kaggle and create various models to predict hotel cancellations.  
 <img src="images/ElasticNet.png" width="400" height="300"/>
