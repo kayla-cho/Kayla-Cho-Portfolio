@@ -14,6 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="mailto:kaayla.cho@gmail.com">Email Me</a> 
   <br><br>
   <a href="https://kayla-cho.wixsite.com/portfolio">My Main Portfolio</a> 
+    <br><br>
   <a href="https://www.linkedin.com/in/kayla-cho/">LinkedIn Profile</a> 
  
 theme: jekyll-theme-minimal
