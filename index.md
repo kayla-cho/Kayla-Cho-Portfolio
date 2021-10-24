@@ -7,7 +7,7 @@
   
    Developed an analytics plan based on customer and product usage to optimize and grow Rosetta Stone’s subscriber base.
 
-<img src="images/Inactive.users.png" width="300" height="300"/>
+<img src="images/Inactive_Users.png" width="300" height="300"/>
 
 - [Airline Sentiment Analysis](https://github.com/kayla-cho/Airline-Sentiment/raw/main/Airline%20Sentiment%20Analysis.pdf)
   
