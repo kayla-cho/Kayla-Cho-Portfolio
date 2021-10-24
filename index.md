@@ -3,7 +3,7 @@
 ---
 ### Data Exploration & Analysis
 -  [Rosetta Stone User Insights](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Rosetta%20Stone%20User%20Insights.pdf)
--  [Detailed Report](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Detailed%20Report.pdf)
+      [Detailed Report](https://github.com/kayla-cho/Rosetta-Stone-User-Insights/raw/main/Detailed%20Report.pdf)
   
    Developed an analytics plan based on customer and product usage to optimize and grow Rosetta Stone’s subscriber base.
 
